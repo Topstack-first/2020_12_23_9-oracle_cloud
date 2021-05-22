@@ -1,0 +1,6 @@
+Database tenant: agarg18
+id is: agarg@benoitregulatory.com
+Password is: Tempus#82
+
+Database login is Username: ADMIN,
+Password: Jpxsoftware2021
